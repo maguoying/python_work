@@ -1,0 +1,5 @@
+#coding=gbk
+from resturaurant import Resturaurant
+resturaurant = Resturaurant('ÀÏÂí¿¾Èâµê','¿¾Èâ');
+resturaurant.describe_restaurant();
+print('========================·Ö¸îÏß=========================');
